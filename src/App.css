@@ -1,0 +1,244 @@
+
+.navbar-light .navbar-brand{
+  color: #3a8bcd;
+  font-weight: bold;
+  margin: auto;
+  
+  
+  
+}
+
+.first .navbar{
+ 
+  height: 100px;
+  background-color: white;
+  border-bottom: solid 1px lightgray;
+}
+
+.first .navbar-light .navbar-brand{
+  color: #3a8bcd;
+}
+.bg-light {
+  background-color: white !important;
+}
+.navbar-nav{
+  margin: 0 auto;
+  text-align:center
+
+}
+.navbar-nav .nav-link {
+  padding-right: 25px !important;
+font-size: 15px;
+font-weight: bold;
+
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: #3a8bcd;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: #3a8bcd;
+  -webkit-transition:all 0.6s ease-in-out;
+-moz-transition:all 0.6s ease-in-out;
+-o-transition:all 0.6s ease-in-out;
+transition:all 0.6s ease-in-out;
+
+}
+ .pic{
+  background-image: url("./b.jpg");
+ 
+  height: 550px;
+  background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.box{
+  background-color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  width: 450px;
+  padding: 23px;
+  font-size: 15px;
+  background-color: rgba(250,250,250,0.9);
+  padding: 25px;
+
+ display: -ms-flexbox;
+ display: flex;
+ -ms-flex-wrap: wrap;
+ flex-wrap: wrap;
+ margin-right: -15px;
+
+ margin-left: 200px;
+ 
+}
+.pic{
+  padding-top: 150px;
+}
+
+
+.box h3{
+  font-weight: bold;
+}
+.box .btn-info:hover {
+  color: #fff;
+  background-color: #3a8bcd;
+  border-color: #3a8bcd;
+  opacity: 0.6;
+}
+.box button{
+  background-color:#3a8bcd;
+  font-weight: 40;
+}
+.third{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.carousel-indicators li{
+  margin-top: 300px;
+  background-color:#3a8bcd;
+  width: 8px;
+  height: 9px;
+  margin-right: 6px;
+ 
+}
+.carousel-indicators {
+  position: absolute;
+  right: 0;
+  bottom: -65px;
+  left: 0;
+  
+
+}
+.third .col-lg-3{
+  border: solid rgb(241, 241, 241) 1px;
+  margin-right: 28px;
+  -ms-flex: 0 0 25%;
+  flex: 0 0 30%;
+  max-width: 22%;
+  
+}
+
+
+.third .col-lg-3 img{
+  padding-top: 15px;
+  display: block;
+  width: 100%;
+
+ 
+}
+.third .col-lg-3 img:hover{
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.third .col-lg-3 h6{
+  padding-top: 20px;
+}
+.third .col-lg-3 a{
+font-weight: bold;
+color:#3a8bcd ;
+padding-bottom: 20px;
+
+}
+
+.third h4{
+  padding-bottom: 20px;
+  font-weight: bold;
+
+}
+.third .h4, h4 {
+  font-size: 1.5rem;
+  margin-left: 189px;
+}
+
+.for{
+  background-color:#3a8bcd ;
+  height: 350px;
+}
+.for h5{
+color: white;
+padding-top: 100px;
+padding-bottom: 30px;
+font-weight: bold;
+}
+.for p{
+  color: white;
+  padding-bottom: 20px;
+  }
+.for input{
+  background-color: transparent;
+  margin-top: 0px
+  
+}
+.for ::placeholder {
+  color: white;
+
+}
+.for .form-control {
+  display: inline;
+  width: 400px;
+  height: 50px;
+  margin-right: 20px;
+  
+}
+
+.for button{
+  background-color: white;
+  color:#3a8bcd ;
+  border: 0px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 2.3;
+  margin-top: -8px;
+  width: 300px;
+  font-weight: 20;
+
+}
+.btn-primary:hover {
+  color: #3a8bcd;
+  background-color: white;
+  border-color: white;
+}
+.fif .navbar-brand {
+color:#3a8bcd;
+margin-top: 20px;
+margin-bottom: 17px;
+}
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover{
+  color: #3a8bcd;
+}
+.fif .nav-link{
+  font-weight: 400;
+}
+a :hover{
+  color: #3a8bcd;
+  -webkit-transition:all 0.6s ease-in-out;
+-moz-transition:all 0.6s ease-in-out;
+-o-transition:all 0.6s ease-in-out;
+transition:all 0.6s ease-in-out;
+}
+.fif a{
+  color: rgb(174, 170, 170);
+  
+}
+.icons i{
+  margin-top: 30px;
+margin-right: 20px;
+margin-bottom: 60px;
+}
+.fif p{
+  font-size: 12px;
+  padding-bottom: 10px;
+  color: rgb(126, 126, 126);
+  font-weight:400;
+}
+.form-control:focus {
+  color: white;
+  background-color: transparent; 
+ border-color: white;}
+ .an {
+    color: #3a8bcd !important;
+    text-decoration: none !important;
+    
+ }  
